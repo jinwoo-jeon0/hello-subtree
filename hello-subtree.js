@@ -1,5 +1,5 @@
 'use strict'
 
-const helloPackage = require('./hello-package/src/index');
+const helloPackage = require('./hello-package');
 
 helloPackage.hello();
