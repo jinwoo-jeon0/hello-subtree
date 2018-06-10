@@ -1,0 +1,11 @@
+{
+  "name": "hello-package",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/jinwoo-jeon0/hello-package.git",
+  "author": "Jinwoo Jeon <jinwoo.jeon0@gmail.com>",
+  "license": "GPL-3.0-or-later",
+  "devDependencies": {
+    "typescript": "^2.9.1"
+  }
+}
