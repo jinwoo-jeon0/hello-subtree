@@ -1,5 +1,6 @@
-'use strict'
-
-module.exports.hello = function() {
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+function hello() {
     console.log('hello-package');
 }
+exports.hello = hello;
